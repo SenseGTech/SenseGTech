@@ -1,5 +1,5 @@
 - 👋 Hi, I’m George Stankov  a.k.a = @SenseGTech
-- 👀 I’m interested in Manual/Automation QA and programming
+- 👀 I’m interested in Manual/Automation QA and programming/gaming
 - 🌱 I’m currently learning Automation Selenium/ InteliJ/ C#/
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Just text me!
